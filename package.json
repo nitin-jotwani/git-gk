@@ -1,0 +1,15 @@
+{
+  "name": "git-gk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@nitin.github.com:nitin-jotwani/git-gk.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
